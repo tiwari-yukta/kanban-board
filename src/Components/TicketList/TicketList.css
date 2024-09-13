@@ -1,0 +1,25 @@
+
+.ticket-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px; 
+  padding: 20px;
+}
+
+.ticket-column {
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.ticket-section {
+  margin-top: 10px;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.ticket-card {
+  margin-bottom: 15px;
+}
