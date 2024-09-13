@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kanban-board/static/css/main.ab61e062.css",
+    "main.js": "/kanban-board/static/js/main.749ba040.js",
+    "static/media/Display.svg": "/kanban-board/static/media/Display.0168095040354204011b596e30abf32e.svg",
+    "static/media/Cancelled.svg": "/kanban-board/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/3 dot menu.svg": "/kanban-board/static/media/3 dot menu.4caedb468f68b915626e0e35045257b3.svg",
+    "static/media/Done.svg": "/kanban-board/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "static/media/down.svg": "/kanban-board/static/media/down.b19d146ddbaad572f0f5cebb6dbdf766.svg",
+    "index.html": "/kanban-board/index.html",
+    "static/media/add.svg": "/kanban-board/static/media/add.f84a7335f3fac0026df6cafc2489b65d.svg",
+    "static/media/in-progress.svg": "/kanban-board/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/Backlog.svg": "/kanban-board/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/To-do.svg": "/kanban-board/static/media/To-do.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.ab61e062.css.map": "/kanban-board/static/css/main.ab61e062.css.map",
+    "main.749ba040.js.map": "/kanban-board/static/js/main.749ba040.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab61e062.css",
+    "static/js/main.749ba040.js"
+  ]
+}
