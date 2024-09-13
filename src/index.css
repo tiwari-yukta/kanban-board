@@ -1,11 +1,8 @@
-/* *{
-  margin: 0;
-}
-body {
-  font-family: 'Outfit';
-  background-color: rgb(208, 209, 211);
-} */
 
+*{
+  margin: 0%;
+  padding: 0;
+}
 body{
   font-family: 'Outfit';
   height: 100vh;
